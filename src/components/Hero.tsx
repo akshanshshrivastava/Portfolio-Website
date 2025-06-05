@@ -15,7 +15,7 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6">
-            Harshita <span className="text-blue-600">Jaiswal</span>
+            Harhita <span className="text-blue-600">Jaiswal</span>
           </h1>
           <h2 className="text-2xl md:text-3xl text-gray-600 mb-8">
             Senior DevOps Engineer
