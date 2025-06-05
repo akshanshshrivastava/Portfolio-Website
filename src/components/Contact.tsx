@@ -18,7 +18,7 @@ const Contact = () => {
     // Create mailto link with form data
     const subject = encodeURIComponent(`Portfolio Contact from ${formData.name}`);
     const body = encodeURIComponent(`Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`);
-    const mailtoLink = `mailto:harshita649@gmail.com?subject=${subject}&body=${body}`;
+    const mailtoLink = `mailto:harshi6449@gmail.com?subject=${subject}&body=${body}`;
     
     window.location.href = mailtoLink;
     
@@ -61,8 +61,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Email</h4>
-                  <a href="mailto:harshita649@gmail.com" className="text-gray-600 hover:text-blue-600 transition-colors">
-                    harshita649@gmail.com
+                  <a href="mailto:harshi6449@gmail.com" className="text-gray-600 hover:text-blue-600 transition-colors">
+                    harshi6449@gmail.com
                   </a>
                 </div>
               </div>
@@ -96,12 +96,12 @@ const Contact = () => {
                 <div>
                   <h4 className="font-semibold text-gray-900">LinkedIn</h4>
                   <a 
-                    href="https://www.linkedin.com/in/harshita-jaiswal-17574" 
+                    href="https://www.linkedin.com/in/harshita-jaiswal-175747112/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-gray-600 hover:text-blue-600 transition-colors"
                   >
-                    harshita-jaiswal-17574
+                    harshita-jaiswal-175747112
                   </a>
                 </div>
               </div>
