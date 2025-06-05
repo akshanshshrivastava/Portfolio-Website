@@ -36,7 +36,7 @@ const Hero = () => {
               Contact Me
             </Button>
             <a 
-              href="https://www.linkedin.com/in/harshita-jaiswal-17574/"
+              href="https://linkedin.com/in/your-linkedin-username"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-8 py-3 text-lg font-semibold text-blue-600 border-2 border-blue-600 rounded-lg hover:bg-blue-600 hover:text-white transition-all duration-300"
