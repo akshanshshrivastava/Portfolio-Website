@@ -21,7 +21,7 @@ const Hero = () => {
             Senior DevOps Engineer
           </h2>
           <p className="text-xl text-gray-700 mb-12 max-w-3xl mx-auto leading-relaxed">
-            Experienced DevOps Engineer with 7 years of expertise in building cloud-native, 
+            Experienced DevOps Engineer with 7+ years of expertise in building cloud-native, 
             production-grade platforms. Specialized in Kubernetes infrastructure, automation, 
             and scalable system architecture.
           </p>
