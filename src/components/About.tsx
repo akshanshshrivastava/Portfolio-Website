@@ -43,7 +43,7 @@ const About = () => {
                 </div>
                 <div className="flex items-center">
                   <Mail className="w-5 h-5 text-blue-600 mr-3" />
-                  <span className="text-gray-700">harshita649@gmail.com</span>
+                  <span className="text-gray-700">harshi6449@gmail.com</span>
                 </div>
               </div>
             </div>
